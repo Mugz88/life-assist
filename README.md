@@ -1,4 +1,4 @@
 What to use it for:
-  task manager\n;
+  task manager;
   shopping  list(shared);
   unique lists;
